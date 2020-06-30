@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/patelwel/public_html/new
+    - /bin/cp -R * $DEPLOYPATH
