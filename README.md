@@ -1,0 +1,2 @@
+# musafirkhana
+Hotel Musafirkhana
